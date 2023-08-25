@@ -1,2 +1,2 @@
 # Meta-Front-End-Developer-Professional-Certificate
-Meta Front-End Developer Professional Certificate: This is my journey to enhancing my coding skills, understanding data structures algorithms and how things work to becoming a better software engineer (Starting by web developement)
+Meta Front-End Developer Professional Certificate: Embark on a journey through my coding evolution as I delve into the realm of data structures, algorithms, and the intricate workings of software engineering, all while beginning with the world of web development. This repository documents my dedicated pursuit of refining coding skills and embracing a profound comprehension of the software landscape, encapsulated by the pursuit of the Meta Front-End Developer Professional Certificate.
