@@ -133,3 +133,34 @@ for( const key of Object.keys(clothingItem) ) {
 const meal=["soup", "steak", "ice cream"];
 let [starter]=meal;
 console.log(starter);
+
+////////////////
+class Cake {
+        constructor(lyr) {
+            this.layers = lyr;
+        }
+
+        getLayers() {
+            return this.layers;
+        }
+    }
+
+    class WeddingCake extends Cake {
+        constructor() {
+            super(2);
+        }
+
+        getLayers() {
+            return super.getLayers() * 5;
+        }
+    }
+
+    var result = new WeddingCake();
+    console.log(result.getLayers());
+    /////////////
+const [a,b]= [1,2,3,4];
+console.log(a);
+function count(...food){
+    console.log(food.length);
+}
+count("burgers","fries",null);
