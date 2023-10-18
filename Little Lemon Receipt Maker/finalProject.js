@@ -59,3 +59,7 @@ function getDiscount(taxBoolean, guests) {
 // Call getDiscount()
 getDiscount(true, 2);
 getDiscount(false, 10);
+var x=23.2;
+
+var veggies = ['parsley', 'carrot']
+console.log(veggies[2])
